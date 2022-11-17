@@ -49,4 +49,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=L1xooo&theme=dark)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1xooo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
