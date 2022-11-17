@@ -47,4 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 🖥️: My Stats :
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=L1xooo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=L1xooo&theme=dark)](https://git.io/streak-stats)
 
