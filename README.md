@@ -51,6 +51,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1xooo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L1xooo=solarized_dark)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L1xooo&theme=solarized_dark)
 
 
